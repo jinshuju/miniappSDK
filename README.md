@@ -23,7 +23,7 @@ app.json
 }
 ```
 
-2. 创建一个page，成功创建后的page页面文件应该是这样子
+2. 创建一个page，成功创建后的page页面文件应该是这样子
 
 ```
 gd-component.js
